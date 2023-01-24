@@ -8,7 +8,8 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="seed-ui.jar" size="2659" download="eager" />
+    <jar href="lib\itext-5.0.5.jar" size="1599728" download="eager" />
+    <jar href="seed-ui.jar" size="40512" download="eager" />
   </resources>
   <jfx:javafx-desc  width="800" height="600" main-class="seed.ui.SeedUi"  name="seed-ui" />
   <update check="always"/>
